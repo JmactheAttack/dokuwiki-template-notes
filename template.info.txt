@@ -1,0 +1,7 @@
+base     master
+author   Jeremy McReynolds
+email    jeremy@jeremysnotes.com
+date     2020-12-24
+name     Master Template for Jeremy's Notes based on the Default DokuWiki Template
+desc     Jeremy's Notes Default Template
+url      https://jeremysnotes.com
