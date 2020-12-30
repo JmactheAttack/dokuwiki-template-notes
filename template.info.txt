@@ -1,7 +1,7 @@
-base     master
+base     notes
 author   Jeremy McReynolds
 email    jeremy@jeremysnotes.com
-date     2020-12-24
-name     Master Template for Jeremy's Notes based on the Default DokuWiki Template
-desc     Jeremy's Notes Default Template
-url      https://jeremysnotes.com
+date     2020-12-30
+name     Notes Template
+desc     Minimalist template for DokuWki based on the default which cuts down much of the static areas and gives the wiki author more control of the what's displayed through the sidebar.
+url      https://github.com/JmactheAttack/dokuwiki-template-notes
